@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T22:54:29.975Z",
+  "updatedAt": "2026-11-18T22:55:36.863Z",
   "business": {
     "id": "5807cf4d-0fa8-4f0d-b570-70a90f0de511",
     "name": "Pos Sinthetix",
@@ -296,9 +296,9 @@
     {
       "id": "3",
       "name": "Aceite Vegetal 1L",
-      "description": "Aceite Vegetal 1L - Excelente calidad",
+      "description": "Aceite Vegetal 1L - Excelente calidad media",
       "category": "Alimentos",
-      "price": 27.8,
+      "price": 27.81,
       "currencyCode": "USD",
       "stock": 98,
       "unitLabel": "ud.",
